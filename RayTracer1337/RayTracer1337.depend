@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1581854630 source:d:\_trash\cpp\_vs\raytracer1337\raytracer1337\3rdparty\lodepng.cpp
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1581854623 d:\_trash\cpp\_vs\raytracer1337\raytracer1337\3rdparty\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
